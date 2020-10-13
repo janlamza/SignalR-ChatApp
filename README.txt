@@ -1,1 +1,1 @@
-Testiranje SignalR - ASP.NET core
+Testiranje SignalR - ASP.NET core1
